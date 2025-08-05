@@ -13,8 +13,8 @@
 
 ## 🧠 About Me
 
-- 🎓 Currently completing a B.S. in Computer Science @ [Insert Fake Uni]
-- 💼 Front-End Intern @ [Insert Believable Tech Startup]
+- 🎓 Currently completing a B.S. in Computer Science
+- 💼 Front-End Intern
 - 🧠 Passionate about design systems, scalable architecture, and pixel-perfect UI
 - 🌱 Learning more about web accessibility, performance optimization, and design tokens
 - ⚡ Fun fact: I build my portfolio site from scratch using a custom React + Vite setup

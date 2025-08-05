@@ -1,65 +1,68 @@
-<!-- Hi there! 👋 Welcome to my GitHub profile. -->
-
-<h1 align="center">Hey, I'm Nia 👋</h1>
+<h1 align="center">Hi, I'm Nia 👋</h1>
 <p align="center">
-  <b>Front-End Web Developer</b> <br>
-  Passionate about building interactive, highly scalable, blockchain-optimized, AI-enhanced, cloud-native, fully quantum-ready web experiences.
+  <b>Front-End Developer | UI Engineer | Accessibility Advocate</b><br>
+  Building seamless, modern web experiences with a focus on performance and usability.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=FF69B4&width=435&lines=React+Wrangler;CSS+Wizard;Dark+Mode+Advocate;Pixel+Perfect+Perfectionist;Still+Using+Internet+Explorer!" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 Frameworks & Libraries
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-NotBroken?style=for-the-badge&logo=react&logoColor=purple" />
-  <img src="https://img.shields.io/badge/AngularJS-Beta?style=for-the-badge&logo=angularjs&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/NextNext.js-404?style=for-the-badge&logo=nextdotjs&logoColor=lime" />
-  <img src="https://img.shields.io/badge/SaSSier-CC6699?style=for-the-badge&logo=sass&logoColor=pink" />
-  <img src="https://img.shields.io/badge/Windtail_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=red" />
-  <img src="https://img.shields.io/badge/Reduckz-593d88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CoffeeScript-007ACC?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=00BFFF&width=435&lines=Front-End+Engineer;React+Specialist;CSS+Architect;Design-System+Builder;Accessibility+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🧠 About Me
 
-- **Languages:** JavaScript (ish), TypeScript-ish, HTML∞, CSS with feelings, CoffeeScript (sometimes)
-- **Frameworks/Libraries:** React (on Tuesdays), NextNext.js, Vue but only in dreams, jQuery 4 (beta)
-- **Tools:** Git-ish, Notepad++, Figma (freestyle mode), Post-It notes, Flip phones
-- **Testing:** I click things. If they work, they work.
-- **CI/CD:** Ctrl+C / Ctrl+V → hope4thebest.sh
-- **Other:** Mobile Unfriendly Design, Mostly Working APIs, Accessibility (™), Lorem Ipsum integration
-
----
-
-## 🔮 Projects I'm Working On
-
-- **DarkModeGPT** – a React app that only works at night
-- **WeatherButWorse™** – a site that predicts yesterday’s weather
-- **Netflix Clone Clone** – like a clone of a Netflix clone, but even less legal
-- **Portfolio Site** – hosted locally in my mind, still in ideation phase
+- 🎓 Currently completing a B.S. in Computer Science @ [Insert Fake Uni]
+- 💼 Front-End Intern @ [Insert Believable Tech Startup]
+- 🧠 Passionate about design systems, scalable architecture, and pixel-perfect UI
+- 🌱 Learning more about web accessibility, performance optimization, and design tokens
+- ⚡ Fun fact: I build my portfolio site from scratch using a custom React + Vite setup
 
 ---
 
-## 📬 Let's (Not) Connect
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/email-sent?style=flat-square" />
-  <img src="https://img.shields.io/badge/fax-machine-offline?style=flat-square" />
-  <img src="https://img.shields.io/badge/LinkedIn-deactivated?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=goated-lineofcode" alt="visitor badge"/>
-</p>
+## 🛠️ Toolbelt
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+- **Frameworks:** React, Vue, Next.js, Redux Toolkit, Vite
+- **Styling:** Tailwind CSS, Styled Components, Sass, PostCSS
+- **Design:** Figma, Adobe XD, Storybook, Design Tokens
+- **Testing:** Jest, React Testing Library, Cypress (light use)
+- **CI/CD:** GitHub Actions, Netlify, Vercel
+- **Other:** REST APIs, Responsive Design, Accessibility (WCAG 2.1), Git & GitHub
+
+---
+
+## 📁 Featured Projects
+
+> 🚧 Note: Some projects are private due to client NDA. More coming soon!
+
+### 🎨 **Portfolio Site**
+Personal portfolio built with React + Tailwind, deployed on Vercel. Fully responsive, dark mode enabled, and WCAG 2.1 compliant.
+
+### 📱 **QuickShop UI**
+Frontend for a fake e-commerce platform. Built with Vue 3, Pinia, and Tailwind CSS. Focused on component architecture and clean UX.
+
+### 📦 **Dashify**
+Dashboard template built in Next.js with real-time chart integrations (Chart.js + D3), JWT auth flow (mocked), and protected routing.
+
+---
+
+
 
 <!--
-✨ Fun fact: I once fixed a bug by turning my computer off and on again. Twice.
+✨ Fun fact: I once debugged an issue by just staring at it long enough. It worked. Somehow.
 -->

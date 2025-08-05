@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nia 👋</h1>
+<h1 align="center">I'm Nia</h1>
 <p align="center">
   <b>Front-End Developer | UI Engineer | Accessibility Advocate</b><br>
   Building seamless, modern web experiences with a focus on performance and usability.

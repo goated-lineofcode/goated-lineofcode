@@ -3,11 +3,11 @@
 <h1 align="center">Hey, I'm Nia 👋</h1>
 <p align="center">
   <b>Front-End Web Developer</b> <br>
-  Passionate about building interactive, accessible, and modern web experiences.
+  Passionate about building interactive, highly scalable, blockchain-optimized, AI-enhanced, cloud-native, fully quantum-ready web experiences.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=00BFFF&width=435&lines=JavaScript+Enthusiast;React+Lover;CSS+Styler;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=FF69B4&width=435&lines=React+Wrangler;CSS+Wizard;Dark+Mode+Advocate;Pixel+Perfect+Perfectionist;Still+Using+Internet+Explorer!" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,43 +15,43 @@
 ## 🚀 Frameworks & Libraries
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-NotBroken?style=for-the-badge&logo=react&logoColor=purple" />
+  <img src="https://img.shields.io/badge/AngularJS-Beta?style=for-the-badge&logo=angularjs&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/NextNext.js-404?style=for-the-badge&logo=nextdotjs&logoColor=lime" />
+  <img src="https://img.shields.io/badge/SaSSier-CC6699?style=for-the-badge&logo=sass&logoColor=pink" />
+  <img src="https://img.shields.io/badge/Windtail_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=red" />
+  <img src="https://img.shields.io/badge/Reduckz-593d88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoffeeScript-007ACC?style=for-the-badge&logo=coffeescript&logoColor=white" />
 </p>
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS/SCSS
-- **Frameworks/Libraries:** React, Vue, Next.js, Redux, Tailwind CSS, Bootstrap
-- **Tools:** Git & GitHub, VS Code, Figma, Chrome DevTools, npm/yarn, Webpack
-- **Testing:** Jest, React Testing Library
-- **CI/CD:** GitHub Actions (basic), Vercel/Netlify deploys
-- **Other:** Responsive Design, REST APIs, Accessibility (a11y), Agile teamwork
+- **Languages:** JavaScript (ish), TypeScript-ish, HTML∞, CSS with feelings, CoffeeScript (sometimes)
+- **Frameworks/Libraries:** React (on Tuesdays), NextNext.js, Vue but only in dreams, jQuery 4 (beta)
+- **Tools:** Git-ish, Notepad++, Figma (freestyle mode), Post-It notes, Flip phones
+- **Testing:** I click things. If they work, they work.
+- **CI/CD:** Ctrl+C / Ctrl+V → hope4thebest.sh
+- **Other:** Mobile Unfriendly Design, Mostly Working APIs, Accessibility (™), Lorem Ipsum integration
 
 ---
 
-## 📊 GitHub Stats
+## 🔮 Projects I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goated-lineofcode&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="410"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goated-lineofcode&theme=tokyonight" alt="GitHub Streak" width="410"/>
-</p>
+- **DarkModeGPT** – a React app that only works at night
+- **WeatherButWorse™** – a site that predicts yesterday’s weather
+- **Netflix Clone Clone** – like a clone of a Netflix clone, but even less legal
+- **Portfolio Site** – hosted locally in my mind, still in ideation phase
 
 ---
 
-## 🌎 Let's Connect!
+## 📬 Let's (Not) Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- Add your portfolio or other social badges here -->
+  <img src="https://img.shields.io/badge/email-sent?style=flat-square" />
+  <img src="https://img.shields.io/badge/fax-machine-offline?style=flat-square" />
+  <img src="https://img.shields.io/badge/LinkedIn-deactivated?style=flat-square" />
 </p>
 
 ---
@@ -61,5 +61,5 @@
 </p>
 
 <!--
-✨ Fun fact: I love turning coffee into code!
+✨ Fun fact: I once fixed a bug by turning my computer off and on again. Twice.
 -->
